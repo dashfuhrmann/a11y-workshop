@@ -1,0 +1,8 @@
+[role="button"] {
+  display: inline-block;
+  position: relative;
+  padding: 16px;
+  border-radius: 5px;
+  color: #fff;
+  background-color: blue;
+}
